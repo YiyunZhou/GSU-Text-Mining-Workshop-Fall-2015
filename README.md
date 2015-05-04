@@ -1,2 +1,2 @@
-# Quantitative Text Anslysis Lecture (Fall 2015)
+# Quantitative Text Anslysis Lecture
 
