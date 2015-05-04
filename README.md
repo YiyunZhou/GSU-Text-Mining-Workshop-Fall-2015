@@ -1,2 +1,2 @@
-# Text-Lecture-Fall-2015-
-Lecture Material for MSA Student at GSU
+# Quantitative Text Anslysis Lecture (Fall 2015)
+
