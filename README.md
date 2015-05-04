@@ -1,2 +1,2 @@
-# Quantitative Text Anslysis Lecture
+Quantitative Text Anslysis Lecture
 
