@@ -5,4 +5,3 @@ The workshop is designed to introduce students to the fundamental concepts and i
 ## Date
 
 * October 30
-* November 6
