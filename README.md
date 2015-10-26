@@ -1,5 +1,8 @@
 
 ### Center for Process Innovation and the Institute for Insight Workshop on Text Mining
+
+Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) and [Institute for Insight](http://insight.gsu.edu/)
+
 Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 
 Time: October 30th, 2015 (2:00 – 4:00 pm)
