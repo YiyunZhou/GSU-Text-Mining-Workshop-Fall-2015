@@ -18,7 +18,7 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 #### Workshop Material
 
-+ Slides: [Lecture](), [Exercise Presentation](bit.do/projectslides)
++ Slides: [Lecture](), [Exercise Presentation](http://bit.do/projectslides)
 
 + The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in applying the techniques that were convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
