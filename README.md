@@ -21,6 +21,6 @@ Data: [Demo](), [Excercise]()
 
 Code: [Demo](), [Excercise]()
 
-
+#### Workshop Evaluation (Coming Soon)
 
 #### Text Mining Resource (Coming Soon)
