@@ -1,5 +1,5 @@
 
-Center for Process Innovation Colloquium Series                             
+Center for Process Innovation Colloquium Series
 Workshop on Text Mining               
 Presented in Collaboration with the Institute for Insight 
 
