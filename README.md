@@ -28,6 +28,8 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 Please take a few minitues to answer the [feedback questionarie]() by the end of the workshop. The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
 
-
+#### Additional Resource for Text Mining
++ For those of you who want to learn text mining in a self-paced manner, you may want to watch the [Natural Language Processing Online Course](https://www.coursera.org/course/nlp) by Dr. Dan Jurafsky et al, Stanford. 
++ You may also want to cross-regisster the CS 7650 Natural Language Processing offered by Dr. Jacob Eisenstein at Georgia Tech. Here is the [Course Repository](https://github.com/jacobeisenstein/gt-nlp-class) for Fall 2015.
 
 
