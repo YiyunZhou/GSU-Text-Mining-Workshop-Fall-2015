@@ -23,7 +23,7 @@ Code: [Demo](), [Excercise]()
 
 #### Workshop Evaluation (will be available on Oct 30th, 2015)
 
-Please take a few minitues to answer the [Questionarie](). The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
+Please take a few minitues to answer the [feedback questionarie](). The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
 
 
 
