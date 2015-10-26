@@ -22,7 +22,7 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 + The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in applying the techniques that were convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
-+ The IPython Notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich mediai. Here are IPython Notebook for [demo code]() and [exercise code]().
++ The iPython notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for [demo code]() and [exercise code]().
 
 #### Workshop Evaluation (will be available on Oct 30th, 2015)
 
