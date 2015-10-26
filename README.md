@@ -20,13 +20,13 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 + Slides: [Lecture](), [Exercise Presentation](http://bit.do/projectslides)
 
-+ The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in applying the techniques that were convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
++ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in applying the techniques that were convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
-+ The iPython notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for [demo code]() and [exercise code]().
++ Code: The iPython notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for [demo code]() and [exercise code]().
 
 #### Workshop Evaluation (will be available on Oct 30th, 2015)
 
-Please take a few minitues to answer the [feedback questionarie](). The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
+Please take a few minitues to answer the [feedback questionarie]() by the end of the workshop. The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
 
 
 
