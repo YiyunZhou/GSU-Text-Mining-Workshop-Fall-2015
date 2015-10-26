@@ -2,13 +2,10 @@
 ### Center for Process Innovation Colloquium Series Workshop on Text Mining Presented in Collaboration with the Institute for Insight
 
 
-Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) and [Institute for Insight](http://insight.gsu.edu/)
-
-Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
-
-Time: October 30th, 2015 (2:00 – 4:00 pm)
-
-Speaker: [Zhitao Yin](http://bit.do/zyincv)
++ Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) and [Institute for Insight](http://insight.gsu.edu/)
++ Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
++ Time: October 30th, 2015 (2:00 – 4:00 pm)
++ Speaker: [Zhitao Yin](http://bit.do/zyincv)
 
 #### Workshop Focus
 
@@ -23,7 +20,7 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 + Slides: [Lecture](), [Exercise Presentation](bit.do/projectslides)
 
-+ Data: [Demo](), [Excercise]()
++ The [Demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in implementing what we convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
 + iPython Notebook: [Demo](), [Excercise]()
 
