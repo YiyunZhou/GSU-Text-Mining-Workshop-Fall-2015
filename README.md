@@ -19,13 +19,13 @@ The workshop will introduce fundamental text mining concepts including text corp
 + [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al 2014.
 + [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
-#### Workshop Material (will be available on Oct 29th, 2015)
+#### Workshop Material
 
-Slides: [Lecture](), [Team Presentation]()
++ Slides: [Lecture](), [Exercise Presentation](bit.do/projectslides)
 
-Data: [Demo](), [Excercise]()
++ Data: [Demo](), [Excercise]()
 
-Code: [Demo](), [Excercise]()
++ iPython Notebook: [Demo](), [Excercise]()
 
 #### Workshop Evaluation (will be available on Oct 30th, 2015)
 
