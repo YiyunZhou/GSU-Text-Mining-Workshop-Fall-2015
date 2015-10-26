@@ -1,5 +1,7 @@
 
-### Center for Process Innovation Colloquium Series Workshop on Text Mining Presented in Collaboration with the Institute for Insight
+### Center for Process Innovation Colloquium Series 
+### Workshop on Text Mining 
+### Presented in Collaboration with the Institute for Insight
 
 
 + Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) and [Institute for Insight](http://insight.gsu.edu/)
