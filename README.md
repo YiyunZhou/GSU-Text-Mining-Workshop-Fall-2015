@@ -4,7 +4,7 @@ Workshop on Text Mining
 Presented in Collaboration with the Institute for Insight 
 
 
-+ Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) and [Institute for Insight](http://insight.gsu.edu/)
++ Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) in collaboration with the [Institute for Insight](http://insight.gsu.edu/)
 + Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 + Time: October 30th, 2015 (2:00 – 4:00 pm)
 + Speaker: [Zhitao Yin](http://bit.do/zyincv)
@@ -18,20 +18,20 @@ The workshop will introduce fundamental text mining concepts including text corp
 + [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al 2014.
 + [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
-#### Workshop Material (coming soon)
+#### Workshop Material (will be uploaded at 2:00pm on Oct 29th , 2015)
 
 + Slides: The [lecture slides]() will cover the basic concepts of text mining. Besides, for each exercise, one team of students is expected to present the reuslts via [exercise presentation slides](http://bit.do/projectslides).
 
-+ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, they are only a small subsample of the whole [Yelp Dataset Chanllenge](http://www.yelp.com/dataset_challenge). For those of you who are interested in applying the techniques that were convered in the workshop to the whole dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
++ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, a small subsample of the whole [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge) will be provided. For those interested in the complete dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
-+ Code: The iPython notebook is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for [demo code]() and [exercise code]().
++ Code: The iPython notebook is an interactive computational environment. in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for the [demo code]() and the [exercise code]().
 
-#### Workshop Evaluation (will activate the questionaire on Oct 30th, 2015)
+#### Workshop Evaluation
 
-Please take a few minitues to answer the [feedback questionarie]() by the end of the workshop. The purpose is to evaluate how well this workshop works for you. Your answers will only be used to provide feedback on your learning and help us make the workshop better.
+Please take a few minitues to answer the [feedback questionarie]() at the completion of the workshop.
 
-#### Additional Resource for Text Mining
-+ For those of you who want to learn text mining in a self-paced manner, you may want to watch the [Natural Language Processing Online Course](https://www.coursera.org/course/nlp) by Dr. Dan Jurafsky et al, Stanford. 
-+ You may also want to cross-regisster the CS 7650 Natural Language Processing offered by Dr. Jacob Eisenstein at Georgia Tech. Here is the [Course Repository](https://github.com/jacobeisenstein/gt-nlp-class) for Fall 2015.
+#### Some Additional Text Mining Resources
++ [Natural Language Processing by Dr. Dan Jurafsky and Dr. Christopher Manning at Stanford University](https://www.coursera.org/course/nlp) - a good self-paced online course.
++ [CS 7650 Natural Language Processing by Dr. Jacob Eisenstein at Georgia Institute of Technology](https://github.com/jacobeisenstein/gt-nlp-class)
 
 
