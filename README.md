@@ -22,11 +22,11 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 + Slides: The [lecture slides]() will cover the basic concepts of text mining. Besides, for each exercise, one team of students is expected to present the reuslts via [exercise presentation slides](http://bit.do/projectslides).
 
-+ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, a small subsample of the whole [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge) will be provided. For those interested in the complete dataset, you can get the data via [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
++ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge). For the sake of demonstration, a small subsample of the whole [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge) will be provided. You can get the complete data by filling [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
 
 + Code: The iPython notebook is an interactive computational environment. in which you can combine code execution, rich text, mathematics, plots and rich media. Here are iPython notebooks for the [demo code]() and the [exercise code]().
 
-#### Workshop Evaluation
+#### Post-workshop Evaluation
 
 Please take a few minitues to answer the [feedback questionarie]() at the completion of the workshop.
 
