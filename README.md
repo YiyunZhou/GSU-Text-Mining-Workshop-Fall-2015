@@ -1,6 +1,6 @@
 
 ### Center for Process Innovation and the Institute for Insight Workshop on Text Mining
-Location: Room 306, GSU Buckhead Campus
+Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 
 Time: October 30th, 2015 (2:00 – 4:00 pm)
 
