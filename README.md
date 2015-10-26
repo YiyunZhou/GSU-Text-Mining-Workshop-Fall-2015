@@ -8,7 +8,7 @@ Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/faciliti
 
 Time: October 30th, 2015 (2:00 – 4:00 pm)
 
-Speaker: [Zhitao Yin](http://zhitaoyin.com/)
+Speaker: [Zhitao Yin](http://bit.do/zyincv)
 
 #### Workshop Focus
 
