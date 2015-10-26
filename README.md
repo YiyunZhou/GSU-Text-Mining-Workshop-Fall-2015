@@ -14,6 +14,11 @@ Speaker: [Zhitao Yin](http://zhitaoyin.com/)
 
 The workshop will introduce fundamental text mining concepts including text corpus preparation, word counting, lexicon-based text classification, and topic modeling. It will demonstrate how Python can be used to organize, analyze and visualize user-generated text content.
 
+#### Reading
++ [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al 2009.
++ [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al 2014.
++ [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
+
 #### Workshop Material (will be available on Oct 29th, 2015)
 
 Slides: [Lecture](), [Team Presentation]()
@@ -28,4 +33,4 @@ Please take a few minitues to answer the [feedback questionarie](). The purpose 
 
 
 
-#### Text Mining Resource (will be available on Oct 30th, 2015)
+
