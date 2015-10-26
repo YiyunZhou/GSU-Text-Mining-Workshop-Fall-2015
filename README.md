@@ -11,7 +11,7 @@ Speaker: [Zhitao Yin](http://zhitaoyin.com/)
 
 #### Workshop Focus
 
-The workshop will introduce fundamental concepts and framework in text mining, and provide the audience with hands-on experience. It will cover text corpus preparation, word counting, lexicon-based text classification and topic modeling. It will make extensive use of Python to organize, analyze and visualize Yelp review data to illustrate the procedures to implement techniques mentioned above to solve business questions. 
+The workshop will introduce fundamental text mining concepts including text corpus preparation, word counting, lexicon-based text classification, and topic modeling. It will demonstrate how Python can be used to organize, analyze and visualize user-generated text content.
 
 #### Workshop Material (will be available on Oct 29th, 2015)
 
