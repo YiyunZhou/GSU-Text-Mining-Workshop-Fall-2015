@@ -1,7 +1,11 @@
-## Introduction
 
-The workshop is designed to introduce students to the fundamental concepts and ideas in quantitative text analysis, and to provide them with hands-on experience. It covers four parts: the preparation of a text corpus for analysis, word counting, text classification (both lexicon-based and classifier-based), and topic models. The lecture will make extensive use of Python as well as other open source software to organize, analyze and visualize text data.  We will use a demo project of the analysis of Yelp data set throughout the lecture to illustrate basic as well as somewhat advanced procedures to implement techniques mentioned in each part. The code of the demo project will be uploaded to the Github repository designed for the lecture.
+### Center for Process Innovation and the Institute for Insight Workshop on Text Mining
+Location: Room 306, GSU Buckhead Campus
 
-## Date
+Time: October 30th, 2015 (2:00 – 4:00 pm)
 
-* October 30
+Speaker: Zhitao Yin
+
+#### Workshop Focus
+
+The workshop will introduce fundamental concepts and framework in text mining, and provide the audience with hands-on experience. It will cover text corpus preparation, word counting, lexicon-based text classification and topic modeling. It will make extensive use of Python to organize, analyze and visualize Yelp review data to illustrate the procedures to implement techniques mentioned above to solve business questions. 
