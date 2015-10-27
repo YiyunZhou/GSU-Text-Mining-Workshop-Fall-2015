@@ -17,7 +17,7 @@ The workshop will introduce fundamental text mining concepts including text corp
 + [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al., 2014.
 + [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
-#### Workshop Material (will be uploaded at 2:00pm on Oct 29th , 2015)
+#### Workshop Material (will be uploaded at 2:00pm on December 3rd , 2015)
 
 + Slides: The [lecture slides]() will cover the basic concepts of text mining. Besides, for each exercise, one team of students is expected to present the reuslts via [exercise presentation slides](http://bit.do/projectslides).
 
@@ -27,7 +27,7 @@ The workshop will introduce fundamental text mining concepts including text corp
 
 #### Post-workshop Evaluation
 
-Please take a few minitues to answer the [feedback questionnarie](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:50-4:10pm on Oct 30th, 2015.
+Please take a few minitues to answer the [feedback questionnarie](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:50-4:10pm on December 4th, 2015.
 
 #### Some Additional Text Mining Resources
 + [Natural Language Processing by Dr. Dan Jurafsky and Dr. Christopher Manning at Stanford University](https://www.coursera.org/course/nlp) - a good self-paced online course.
