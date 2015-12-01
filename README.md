@@ -24,7 +24,7 @@ Presented in Collaboration with the Institute for Insight**
 + Please follow the [instruction](Instruction.md) to set up your python environemnt.
 
 
-#### Workshop Material (will be uploaded at 2:00pm on December 2nd , 2015)
+#### Workshop Material (will be uploaded at 11:55pm on December 1st , 2015)
 
 + [Lecture Slides]()
 + Please download the [Code Package]() which includes iPython notebook, demo dataset, and excerise dataset.
