@@ -1,4 +1,5 @@
-**Please follow the following step 1-10 to set up your python environment and make sure your computer has Internet connection.**
+**Please follow step 1-7 to set up your python environment and make sure your computer has Internet connection.**
+
 
 #### Step 1: Install Anaconda
 
@@ -6,8 +7,9 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 **If you have python installed in your computer, please remove it before installing Anaconda.**
 
-+ For Windows user, please download the following graphical installer and install it in the **default path**.
-<img src="pic\Anaconda_Windows.png" style="width: 100px;"/>
++ For Windows user
+  + please download the following graphical installer and install it in the **default path**.
+ <img src="pic\Anaconda_Windows.png" style="width: 100px;"/>
 
 + For Mac user, please download and install the following graphical installer andinstall it in the **default path**.
 <img src="pic\Anaconda_Mac.png" style="width: 100px;"/>
