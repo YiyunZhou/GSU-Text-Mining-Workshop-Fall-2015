@@ -1,4 +1,4 @@
-**Please follow the following step 1-10 to set up your python environment.**
+**Please follow the following step 1-10 to set up your python environment and make sure your computer has Internet connection.**
 
 #### Step 1: Install Anaconda
 
@@ -14,7 +14,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 **___________________________________________________________________________________________________**
 
-#### Step 2: Install seaborn Package
+#### Step 2: Install Seaborn Ploting Package
 
 + For Windows user, type ```pip install seaborn``` in the Anaconda Prompt. **To enter the Anaconda Prompt, (1) go to start menu, (2) find Anaconda Prompt icon under the Anaconda folder, (3) press ENTER**
 <img src="pic\seaborn_Windows.png" alt="install seaborn" style="width: 100px;"/>
@@ -24,6 +24,15 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 <img src="pic\seaborn_Mac.png" style="width: 100px;"/>
 
 **___________________________________________________________________________________________________**
+
+#### Step 3: Install Gensim Natural Language Processing Package
+
++ For Windows user, type ```easy_install -U gensim``` in the Anaconda Prompt.
+<img src="pic\gensim_Windows.png"   style="width: 600px;"/>
+
+ 
++ For Mac user, type ```pip install -U gensim``` in the Terminal.
+<img src="pic\gensim_Mac.png"   style="width: 600px;"/>
 
 
 **___________________________________________________________________________________________________**
