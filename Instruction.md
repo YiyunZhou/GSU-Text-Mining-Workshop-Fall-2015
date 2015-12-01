@@ -2,13 +2,7 @@
 Workshop on Text Mining                       
 Presented in Collaboration with the Institute for Insight**
 
-
-+ Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) in collaboration with the [Institute for Insight](http://insight.gsu.edu/)
-+ Location: Room 304, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
-+ Time: December 4, 2015 at 2:00 pm
-+ Speaker: [Zhitao Yin](http://bit.do/zyincv)
-
-#### Workshop Objectives
+#### Step 1: Get Anaconda
 
  + **Concept**: Introduce text corpus preparation, word counting, lexicon-based text classification, and topic modeling.
  + **Application**: Demonstrate how to use Python to apply these techniques to Yelp review dataset.
