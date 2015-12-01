@@ -1,12 +1,15 @@
-**Center for Process Innovation Colloquium Series                        
-Workshop on Text Mining                       
-Presented in Collaboration with the Institute for Insight**
+**Please follow the following step 1-10 to set up your python evnironment.**
 
 #### Step 1: Get Anaconda
 
- + **Concept**: Introduce text corpus preparation, word counting, lexicon-based text classification, and topic modeling.
- + **Application**: Demonstrate how to use Python to apply these techniques to Yelp review dataset.
- + **Experience**: Give students hands-on experience through three excerises during the workshop.
+Anaconda is a completely free Python distribution. It includes more than 300 of the most popular Python packages for science, math, engineering, and data analysis. Go to [Anaconda Website](https://www.continuum.io/downloads) and download the version that matches your operating system.
+
++ For Windows user, please download the following graphical installer.
+
+
+
++ For Mac user, please download the following graphical installer.
+
 
 #### Recommended Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
