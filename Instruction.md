@@ -6,6 +6,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 + For Windows user, please download the following graphical installer.
 
+<img src="pic\Anaconda_Windows.png" style="width: 300px;"/>
 
 
 + For Mac user, please download the following graphical installer.
