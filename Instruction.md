@@ -20,7 +20,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 2: Install Seaborn Ploting Package
 
 + For Windows user
-  + Go to start menu
+  + Go to Start menu
   + Find Anaconda Prompt icon under the Anaconda folder
   + Press ENTER
   + Type ```pip install seaborn``` in the Anaconda Prompt. 
