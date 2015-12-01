@@ -4,7 +4,7 @@ Presented in Collaboration with the Institute for Insight**
 
 
 + Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) in collaboration with the [Institute for Insight](http://insight.gsu.edu/)
-+ Location: Room 306, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
++ Location: Room 304, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 + Time: December 4, 2015 at 2:00 pm
 + Speaker: [Zhitao Yin](http://bit.do/zyincv)
 
