@@ -21,7 +21,7 @@ Presented in Collaboration with the Institute for Insight**
 
 #### Pre-workshop Instruction
 
-+ Please follow the [instruction](instruction.md) to set up your python environemnt.
++ Please follow the [instruction](Instruction.md) to set up your python environemnt.
 
 
 #### Workshop Material (will be uploaded at 2:00pm on December 2nd , 2015)
