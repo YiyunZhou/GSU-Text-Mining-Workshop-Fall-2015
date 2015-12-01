@@ -8,24 +8,24 @@ Presented in Collaboration with the Institute for Insight**
 + Time: December 4, 2015 at 2:00 pm
 + Speaker: [Zhitao Yin](http://bit.do/zyincv)
 
-#### Workshop Content
+#### Workshop Objectives
 
- + **Concept**: introduce text corpus preparation, word counting, lexicon-based text classification, and topic modeling.
- + **Application**: demonstrate how to use Python to apply these techniques to Yelp review dataset.
- + **Experience**: give students hands-on experience through three excerises during the workshop.
+ + **Concept**: Introduce text corpus preparation, word counting, lexicon-based text classification, and topic modeling.
+ + **Application**: Demonstrate how to use Python to apply these techniques to Yelp review dataset.
+ + **Experience**: Give students hands-on experience through three excerises during the workshop.
 
-#### Reading
+#### Recommended Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
 + [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al., 2014.
 + [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
-#### Workshop Material (will be uploaded at 2:00pm on December 3rd , 2015)
+#### Pre-workshop Setup
 
-+ Slides: The [lecture slides]() will cover the basic concepts of text mining. Besides, for each exercise, one team of students is expected to present the reuslts via [exercise presentation slides](http://bit.do/projectslides).
 
-+ Data: The [demo dataset]() and [excercise dataset]() were extracted from [Yelp Challenge Dataset](http://www.yelp.com/dataset_challenge). For the sake of demonstration, a small subsample of the complete [Yelp Challenge Dataset](http://www.yelp.com/dataset_challenge) is provided. You can get the complete data by filling out [the form](https://www.yelp.com/dataset_challenge/dataset) for free.
+#### Workshop Material (will be uploaded at 2:00pm on December 2nd , 2015)
 
-+ Code: Here are [iPython notebooks](http://ipython.org/notebook.html) for the [demo code]() and the [exercise code]().
++ Please download the [Workshop Package]() which includes lecture slides, iPython notebook, demo dataset, and excerise dataset.
++ We will have three excerises. For each of them, I will invite one group to present their resutls. The result should be posted on [Exercise Slides ](http://bit.do/projectslides).
 
 #### Post-workshop Evaluation
 
