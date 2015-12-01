@@ -29,7 +29,7 @@ Presented in Collaboration with the Institute for Insight**
 
 #### Post-workshop Evaluation
 
-Please take a few minitues to answer the [feedback questionnarie](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:50-4:10pm on December 4th, 2015.
+Please take a few minitues to answer the [feedback questionnarie](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:30-4:30pm on December 4th, 2015.
 
 #### Some Additional Text Mining Resources
 + [Natural Language Processing by Dr. Dan Jurafsky and Dr. Christopher Manning at Stanford University](https://www.coursera.org/course/nlp) - a good self-paced online course.
