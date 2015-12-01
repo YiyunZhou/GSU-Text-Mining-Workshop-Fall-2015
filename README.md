@@ -8,9 +8,11 @@ Presented in Collaboration with the Institute for Insight**
 + Time: December 4, 2015 at 2:00 pm
 + Speaker: [Zhitao Yin](http://bit.do/zyincv)
 
-#### Workshop Focus
+#### Workshop Content
 
-The workshop will introduce fundamental text mining concepts including text corpus preparation, word counting, lexicon-based text classification, and topic modeling. It will demonstrate how Python can be used to organize, analyze and visualize user-generated text content.
+ + **Concept**: introduce text corpus preparation, word counting, lexicon-based text classification, and topic modeling.
+ + **Application**: demonstrate how to use Python to apply these techniques to Yelp review dataset.
+ + **Experience**: give students hands-on experience through three excerises during the workshop.
 
 #### Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
