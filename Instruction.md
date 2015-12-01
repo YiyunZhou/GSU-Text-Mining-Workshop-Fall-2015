@@ -5,12 +5,10 @@
 Anaconda is a completely free Python distribution. It includes more than 300 of the most popular Python packages for science, math, engineering, and data analysis. Go to [Anaconda Website](https://www.continuum.io/downloads) and download the version that matches your operating system.
 
 + For Windows user, please download the following graphical installer.
-
-<img src="pic\Anaconda_Windows.png" style="width: 300px;"/>
-
+<img src="pic\Anaconda_Windows.png" style="width: 100px;"/>
 
 + For Mac user, please download the following graphical installer.
-
+<img src="pic\Anaconda_Mac.png" style="width: 100px;"/>
 
 #### Recommended Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
