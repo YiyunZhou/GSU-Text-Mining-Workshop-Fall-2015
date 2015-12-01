@@ -40,7 +40,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 4: Install NLTK Natural lLanguage Processing Package
 
 + For Windows user, type ```python -m nltk.downloader all``` in the Anaconda Prompt.
-<img src="pic\ntlk_windows.png"   style="width: 600px;"/>
+<img src="pic\NTLK_Windows.png"   style="width: 600px;"/>
 
 + For Mac user, type ```sudo pip install -U nltk``` in the Terminal.
 <img src="pic\NTLK_Mac.png"  style="width: 600px;"/>
