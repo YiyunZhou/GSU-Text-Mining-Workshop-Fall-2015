@@ -76,7 +76,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 #### Step 6: Download "Installation Test" iPython Notebook
 
-+ Download the [Installation Test](code\\Installation_Test.ipnb) iPython Notebook
++ Download the [Installation Test](code/Installation_Test.ipnb) iPython Notebook
 
 + Move it to your iPython Notebook Working Directory
 
