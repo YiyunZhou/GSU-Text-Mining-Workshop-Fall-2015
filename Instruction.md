@@ -18,7 +18,9 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 iPython Notebook will be our python environment.
 
-+ For Windows user, (1)go to start menu, (2)find iPython Notebook icon under the Anaconda folder, (press ENTER)
++ For Windows user, (1) go to start menu, (2) find iPython Notebook icon under the Anaconda folder, (3) press ENTER
+
+
 + For Mac user, (1) open your terminal, (2) type ```ipython notebook```, (3) press ENTER
 
 **___________________________________________________________________________________________________**
