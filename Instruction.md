@@ -16,12 +16,8 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 #### Step 2: Install seaborn Package
 
-+ For Windows user, type ```pip install seaborn``` in the Anaconda Prompt. 
-
-**To enter the Anaconda Prompt, (1) go to start menu, (2) find Anaconda Prompt icon under the Anaconda folder, (3) press ENTER**
-
++ For Windows user, type ```pip install seaborn``` in the Anaconda Prompt. **To enter the Anaconda Prompt, (1) go to start menu, (2) find Anaconda Prompt icon under the Anaconda folder, (3) press ENTER**
 <img src="pic\seaborn_Windows.png" alt="install seaborn" style="width: 100px;"/>
-
 
 
 + For Mac user, type ```pip install seaborn``` in the Terminal.
