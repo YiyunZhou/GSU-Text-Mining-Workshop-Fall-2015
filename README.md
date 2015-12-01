@@ -19,7 +19,9 @@ Presented in Collaboration with the Institute for Insight**
 + [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al., 2014.
 + [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
-#### Pre-workshop Setup
+#### Pre-workshop Instruction
+
++ Please follow the [instruction]() to set up your python environemnt.
 
 
 #### Workshop Material (will be uploaded at 2:00pm on December 2nd , 2015)
