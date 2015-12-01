@@ -28,11 +28,11 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 3: Install Gensim Natural Language Processing Package
 
 + For Windows user, type ```easy_install -U gensim``` in the Anaconda Prompt.
-<img src="pic\gensim_Windows.png"   style="width: 600px;"/>
+<img src="pic\Gensim_Windows.png"   style="width: 600px;"/>
 
  
 + For Mac user, type ```pip install -U gensim``` in the Terminal.
-<img src="pic\gensim_Mac.png"   style="width: 600px;"/>
+<img src="pic\Gensim_Mac.png"   style="width: 600px;"/>
 
 
 **___________________________________________________________________________________________________**
