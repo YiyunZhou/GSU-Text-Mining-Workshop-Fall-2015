@@ -28,7 +28,7 @@ Presented in Collaboration with the Institute for Insight**
 
 + Please download the [Workshop Package]() which includes lecture slides, iPython notebook, demo dataset, and excerise dataset.
   + **Once downloaded, please make sure that the workshop package is in your iPython notebook working directory.**
-+ We will have three excerises. For each of them, I will invite one group to present their resutls. The result should be posted on [Exercise Slides ](http://bit.do/projectslides).
++ We will have three excerises during the workshop. For each of them, I will invite one group to present their resutls. The result should be posted on [Exercise Slides ](http://bit.do/projectslides).
 
 #### Post-workshop Evaluation
 
