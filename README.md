@@ -26,8 +26,9 @@ Presented in Collaboration with the Institute for Insight**
 
 #### Workshop Material (will be uploaded at 2:00pm on December 2nd , 2015)
 
-+ Please download the [Workshop Package]() which includes lecture slides, iPython notebook, demo dataset, and excerise dataset.
-  + **Once downloaded, please make sure that the workshop package is in your iPython notebook working directory.**
++ [Lecture Slides]()
++ Please download the [Code Package]() which includes iPython notebook, demo dataset, and excerise dataset.
+  + **Once downloaded, please make sure that the code package is in your iPython notebook working directory.**
 + We will have three excerises during the workshop. For each of them, I will invite one group to present their resutls. The result should be posted on [Exercise Slides ](http://bit.do/projectslides).
 
 #### Post-workshop Evaluation
