@@ -36,12 +36,12 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 3: Install Gensim Natural Language Processing Package
 
 + For Windows user
-  + type ```easy_install -U gensim``` in the Anaconda Prompt.
+  + Type ```easy_install -U gensim``` in the Anaconda Prompt.
   <img src="pic\Gensim_Windows.png"   style="width: 600px;"/>
 
  
 + For Mac user
-  + type ```pip install -U gensim``` in the Terminal.
+  + Type ```pip install -U gensim``` in the Terminal.
   <img src="pic\Gensim_Mac.png"   style="width: 600px;"/>
 
 
@@ -49,11 +49,11 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 4: Install NLTK Natural lLanguage Processing Package
 
 + For Windows user
-  + type ```python -m nltk.downloader all``` in the Anaconda Prompt.
+  + Type ```python -m nltk.downloader all``` in the Anaconda Prompt.
   <img src="pic\NTLK_Windows.png"   style="width: 600px;"/>
 
 + For Mac user
-  + type ```sudo pip install -U nltk``` in the Terminal.
+  + Type ```sudo pip install -U nltk``` in the Terminal.
   <img src="pic\NTLK_Mac.png"  style="width: 600px;"/>
 
 
@@ -61,20 +61,22 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 #### Step 5: Locate Your iPython Notebook Working Directory on Your Computer
 
 + For Windows user
-  + the iPython Notebook Working Directory will be your user folder on C drive. 
-  + For example, my user name is zyin3. So my user folder is located in C:\Users\zyin3
+  + The iPython Notebook Working Directory will be your user folder on C drive. 
+  + For example, my user name is zyin3. 
+  + So my user folder is located in C:\Users\zyin3
   <img src="pic\ipython_win.png" style="width: 100px;"/>
 
 
 + For Mac user
-  + the iPtyhon notebook Wroking Directory will be your user folder. 
-  + For example, my user name is zhitaoyin. So my user folder is located in \Users\zhitaoyin 
+  + The iPtyhon notebook Wroking Directory will be your user folder. 
+  + For example, my user name is zhitaoyin. 
+  + So my user folder is located in \Users\zhitaoyin 
   <img src="pic\ipython_mac.png" style="width: 100px;"/>
 
 
 #### Step 6: Download "Installation Test" iPython Notebook
 
-+ Download the [Installation Test](code\Installation_Test.ipnb) iPython Notebook
++ Download the [Installation Test](code\\Installation_Test.ipnb) iPython Notebook
 
 + Move it to your iPython Notebook Working Directory
 
