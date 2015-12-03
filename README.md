@@ -11,7 +11,7 @@ Presented in Collaboration with the Institute for Insight**
 
 ##### Workshop Objectives
 
- + **Concept**: Introduce text corpus preparation, lexicon-based word counting, algorithm-based word counting, and topic modeling.
+ + **Concept**: Introduce text preparation, lexicon-based word counting, algorithm-based word counting, and topic modeling.
  + **Application**: Demonstrate how to use Python to apply these techniques to Yelp review dataset.
  + **Experience**: Give students hands-on experience through three exerises during the workshop.
 
