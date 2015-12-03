@@ -12,12 +12,12 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
  <img src="pic\Anaconda_Windows.png" style="width: 100px;"/>
 
 + For Mac user
-  + please download and install the following graphical installer andinstall it in the **default path**.
+  + please download and install the following graphical installer and install it in the **default path**.
   <img src="pic\Anaconda_Mac.png" style="width: 100px;"/>
 
 
 
-#### Step 2: Install Seaborn Ploting Package
+#### Step 2: Install Seaborn Plotting Package
 
 + For Windows user
   + Go to Start menu
@@ -46,7 +46,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 
 
-#### Step 4: Install NLTK Natural lLanguage Processing Package
+#### Step 4: Install NLTK Natural Language Processing Package
 
 + For Windows user
   + Type ```python -m nltk.downloader all``` in the Anaconda Prompt.
@@ -68,7 +68,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 
 + For Mac user
-  + The iPtyhon notebook Wroking Directory will be your user folder. 
+  + The iPtyhon notebook Working Directory will be your user folder. 
   + For example, my user name is zhitaoyin. 
   + So my user folder is located in \Users\zhitaoyin 
   <img src="pic\ipython_mac.png" style="width: 100px;"/>
