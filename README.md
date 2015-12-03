@@ -17,8 +17,8 @@ Presented in Collaboration with the Institute for Insight**
 
 ##### Recommended Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
-+ [Narrative framing of consumer sentiment in online restaurant reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al., 2014.
-+ [Probabilistic topic models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
++ [Narrative Framing of Consumer Sentiment in Online Restaurant Reviews](http://firstmonday.org/ojs/index.php/fm/article/view/4944/3863) by Jurafsky et al., 2014.
++ [Probabilistic Topic Models](http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David Blei, 2012.
 
 ##### Pre-workshop Instruction
 
@@ -31,7 +31,7 @@ Presented in Collaboration with the Institute for Insight**
 + Please download the [Code Package](http://bit.do/codepackage) which includes demo code, demo dataset, exercise questions, and exercise dataset.
   + **Once downloaded, please extract the "code package" under your iPython notebook working directory.**
   + **Click [here](http://bit.do/onlinecode) to view the code online if you do not have iPython notebook installed in your computer.**
-+ We will have three exerises during the workshop. For each of them, I will invite one group to present their results. The result will be posted on [Exercise Slides](http://bit.do/projectslides).
++ We will have three exerises during the workshop. For each of them, I will invite one group to present their results. The results will be posted on [Exercise Slides](http://bit.do/projectslides).
 
 ##### Post-workshop Evaluation
 
