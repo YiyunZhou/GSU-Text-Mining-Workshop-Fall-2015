@@ -3,11 +3,11 @@ Workshop on Text Mining
 Presented in Collaboration with the Institute for Insight**
 
 
-+ Hosted by: [Center for Process Innovation](http://ceprin.org/WP/) in collaboration with the [Institute for Insight](http://insight.gsu.edu/)
++ Hosted by: [Center for Process Innovation (CEPRIN)](http://ceprin.org/WP/) in collaboration with the [Institute for Insight](http://insight.gsu.edu/)
 + Location: Room 304, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 + Time: December 4, 2015 (2:00 pm - 4:00 pm)
 + Speaker: [Zhitao Yin](http://zhitaoyin.com)
-+ Under the guidance of [Dr. Arun Rai](http://arunrai.us)
++ Workshop developed under the guidance of [Dr. Arun Rai](http://arunrai.us)
 
 ##### Workshop Objectives
 
