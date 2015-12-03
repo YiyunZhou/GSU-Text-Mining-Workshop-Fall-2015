@@ -7,7 +7,7 @@ Presented in Collaboration with the Institute for Insight**
 + Location: Room 304, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 + Time: December 4, 2015 (2:00 pm - 4:00 pm)
 + Speaker: [Zhitao Yin](http://zhitaoyin.com)
-+ Workshop developed under the guidance of [Dr. Arun Rai](http://arunrai.us)
++ Workshop developed with the guidance of [Dr. Arun Rai](http://arunrai.us)
 
 ##### Workshop Objectives
 
