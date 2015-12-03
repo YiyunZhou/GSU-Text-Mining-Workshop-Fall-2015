@@ -33,7 +33,7 @@ Presented in Collaboration with the Institute for Insight**
   + **Click [here](http://bit.do/onlinecode) to view the code online if you do not have iPython notebook installed in your computer.**
 + We will have three exerises during the workshop. For each of them, I will invite one group to present their results. The results will be posted on [Exercise Slides](http://bit.do/projectslides).
 
-##### Post-workshop Evaluation
+##### Workshop Evaluation
 
 Please take a few minutes to answer the [feedback questionnaire](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop.
 
