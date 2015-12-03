@@ -22,7 +22,7 @@ Presented in Collaboration with the Institute for Insight**
 
 ##### Pre-workshop Instruction
 
-+ Please follow the [instructions](Instruction.md) to set up your python environment.
++ Please follow the [instructions](Instruction.md) to set up your Python environment.
 
 
 ##### Workshop Material
