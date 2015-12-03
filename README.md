@@ -29,7 +29,7 @@ Presented in Collaboration with the Institute for Insight**
 
 + [Lecture Slides](http://bit.do/lectureslides)
 + Please download the [Code Package](http://bit.do/codepackage) which includes demo code, demo dataset, exercise questions, and exercise dataset.
-  + **Once downloaded, please make sure that the code package is in your iPython notebook working directory.**
+  + **Once downloaded, please extract the "code package" under your iPython notebook working directory.**
   + **Click [here](http://bit.do/onlinecode) to view the code online if you do not have iPython notebook installed in your computer.**
 + We will have three exerises during the workshop. For each of them, I will invite one group to present their results. The result will be posted on [Exercise Slides](http://bit.do/projectslides).
 
