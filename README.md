@@ -7,13 +7,13 @@ Presented in Collaboration with the Institute for Insight**
 + Location: Room 304, [GSU Buckhead Campus](http://robinson.gsu.edu/about/facilities/)
 + Time: December 4, 2015 (2:00 pm - 4:00 pm)
 + Speaker: [Zhitao Yin](http://zhitaoyin.com)
-+ Under the guidence of [Dr. Arun Rai](http://arunrai.us)
++ Under the guidance of [Dr. Arun Rai](http://arunrai.us)
 
 ##### Workshop Objectives
 
  + **Concept**: Introduce text corpus preparation, lexicon-based word counting, algorithm-based word counting, and topic modeling.
  + **Application**: Demonstrate how to use Python to apply these techniques to Yelp review dataset.
- + **Experience**: Give students hands-on experience through three excerises during the workshop.
+ + **Experience**: Give students hands-on experience through three exerises during the workshop.
 
 ##### Recommended Reading
 + [Natural Language Processing with Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf) by Bird et al., 2009.
@@ -22,20 +22,20 @@ Presented in Collaboration with the Institute for Insight**
 
 ##### Pre-workshop Instruction
 
-+ Please follow the [instruction](Instruction.md) to set up your python environemnt.
++ Please follow the [instruction](Instruction.md) to set up your python environment.
 
 
 ##### Workshop Material
 
 + [Lecture Slides](http://bit.do/lectureslides)
-+ Please download the [Code Package](http://bit.do/codepackage) which includes iPython notebook, demo dataset, and excerise dataset.
++ Please download the [Code Package](http://bit.do/codepackage) which includes demo code, demo dataset, exercise questions, and exercise dataset.
   + **Once downloaded, please make sure that the code package is in your iPython notebook working directory.**
   + **Click [here](http://bit.do/onlinecode) to view the code online if you do not have iPython notebook installed in your computer.**
-+ We will have three excerises during the workshop. For each of them, I will invite one group to present their resutls. The result should be posted on [Exercise Slides ](http://bit.do/projectslides).
++ We will have three exerises during the workshop. For each of them, I will invite one group to present their results. The result will be posted on [Exercise Slides](http://bit.do/projectslides).
 
 ##### Post-workshop Evaluation
 
-Please take a few minitues to answer the [feedback questionnarie](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:30-4:30pm on December 4th, 2015.
+Please take a few minutes to answer the [feedback questionnaire](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop. The questionnaire will be available during 3:30-4:30pm on December 4th, 2015.
 
 ##### Some Additional Text Mining Resources
 + [Natural Language Processing by Dr. Dan Jurafsky and Dr. Christopher Manning at Stanford University](https://www.coursera.org/course/nlp) - a good self-paced online course.
