@@ -37,7 +37,7 @@ Presented in Collaboration with the Institute for Insight**
 
 Please take a few minutes to answer the [feedback questionnaire](https://gsu.qualtrics.com/jfe/form/SV_a5G5IOB04dcCGUZ) at the completion of the workshop.
 
-##### Some Additional Text Mining Resources
+##### Recommended Text Mining Resources
 + [Natural Language Processing by Dr. Dan Jurafsky and Dr. Christopher Manning at Stanford University](https://www.coursera.org/course/nlp) - a good self-paced online course.
 + [CS 7650 Natural Language Processing by Dr. Jacob Eisenstein at Georgia Institute of Technology](https://github.com/jacobeisenstein/gt-nlp-class)
 
