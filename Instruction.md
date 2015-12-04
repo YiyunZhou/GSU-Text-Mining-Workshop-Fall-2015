@@ -89,7 +89,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 
 + For Windows user
   + Go to Start menu
-  + Find iPython Notebook icon under the Anaconda folder
+  + Find jupyter Notebook icon under the Anaconda folder
   + Press ENTER
   + You will see the iPython notebook interface.
   <img src="pic\ipython1.png" style="width: 100px;"/>
