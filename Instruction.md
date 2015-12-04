@@ -55,7 +55,7 @@ Anaconda is a completely free Python distribution. It includes more than 300 of 
 + For Mac user
   + Type ```python``` in the Terminal. Then you will enter Python environment.
   + Type ```import nltk```
-  + Type ```nltk.download``
+  + Type ```nltk.download```
   + You will see an GUI which includes 4 tabs.
   + Go to "All Packages" and click download
 
